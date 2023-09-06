@@ -6,6 +6,14 @@
         "name": "琨娱七七",
         "type": 3,
         "api": "https://raw.githubusercontent.com/hzhst123/CatVodOpen/main/open/kunyu77_open.js"
+      },
+      {
+      "key": "廠長",
+      "name": "廠長",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
+      "searchable": 1,
+      "changeable": 1
       }
     ]
   },
